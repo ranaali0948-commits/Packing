@@ -1,0 +1,4 @@
+/assets/*.webp
+  Cache-Control: public, max-age=86400
+/assets/catalogue-emballages.pdf
+  Cache-Control: public, max-age=3600
